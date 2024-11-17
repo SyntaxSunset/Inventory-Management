@@ -112,29 +112,15 @@ Clone the project repository:
     git clone <repository_url>
 Navigate to the project folder:
 
-    cd inventory-management
-2. Set Up the Database
+    cd Inventory-Management
 
-Open your MySQL client or terminal.
-Create the database and import the SQL file:
-
-    CREATE DATABASE inventory_db;
-    USE inventory_db;
-    SOURCE inventory.sql;
-Update the database credentials in the DBConnection.java file:
-
-    String url = "jdbc:mysql://localhost:3306/inventory_db";
-    String user = "root";
-    String password = "root";//your sql password
-3. Compile the Program
+2. Compile the Program
 
 Compile the Java files to generate class files:
 
-    javac -d out src/**/*.java
-4. Run the Program
+3. Run the Program
 
 Run the main class to start the system:
 
-    java -cp out Main
 
 
