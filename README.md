@@ -5,10 +5,10 @@
 The Inventory Management System is designed to help small to medium businesses track and manage their inventory in real-time. It allows users to add, update, remove, and view products, ensuring efficient stock management and avoiding overstocking or stockouts.
 
 ## Table of Contents
-•⁠  ⁠[Description](#description)
-•⁠  ⁠[Features](#features)
-•⁠  ⁠[Usage](#usage)
-•⁠  ⁠[Contributing](#contributing)
+- ⁠[Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Features
 - ⁠Add, update, and delete products in the inventory.
@@ -109,7 +109,7 @@ Open your terminal or command prompt.
 
 Clone the project repository:
 
-    git clone <repository_url>
+    git clone git@github.com:SyntaxSunset/Inventory-Management.git
 Navigate to the project folder:
 
     cd Inventory-Management
