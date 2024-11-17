@@ -1,5 +1,22 @@
-<h2>Inventory Management System</h2>
+# Inventory Management System
 
+## Description
+
+The Inventory Management System is designed to help small to medium businesses track and manage their inventory in real-time. It allows users to add, update, remove, and view products, ensuring efficient stock management and avoiding overstocking or stockouts.
+
+## Table of Contents
+•⁠  ⁠[Description](#description)
+•⁠  ⁠[Features](#features)
+•⁠  ⁠[Usage](#usage)
+•⁠  ⁠[Contributing](#contributing)
+
+## Features
+- ⁠Add, update, and delete products in the inventory.
+- Track stock levels and update inventory in real-time.
+- Employee management system working inside the inventory.
+- ⁠Generate reports on sales, and reorder levels.
+
+## Usage
 
 <h3>Main Features</h3>
 
@@ -67,6 +84,7 @@ Helps manage inventory, oversee employee roles, and coordinate smoothly with sup
 <h3>#Setup Instructions</h3>
 
 Prerequisites:
+
 1.Java Development Kit (JDK) installed on your system.
 
 2.Database setup: MySQL or any other relational database.
