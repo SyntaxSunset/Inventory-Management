@@ -89,3 +89,7 @@ Compile the Java files to generate class files:
 Run the main class to start the system:
 
     java -cp out Main
+
+Screenshots:
+<img width="782" alt="Screenshot 2024-11-17 at 10 48 49 AM" src="https://github.com/user-attachments/assets/eda1926b-9570-41fa-8d26-7d9103c163ac">
+
