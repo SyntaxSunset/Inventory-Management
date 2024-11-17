@@ -5,6 +5,7 @@ Inventory Management System
 1.Login System:
 Secure login page for authorized access.
 Role-based permissions restricted to managers for advanced actions.
+https://github.com/SyntaxSunset/Inventory-Management/issues/1#issue-2665288700
 
 2.Navigation Dashboard:
 Simple interface with buttons to access key modules like Product, Employee, Supplier, and Sales.
