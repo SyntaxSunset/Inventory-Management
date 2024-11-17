@@ -53,7 +53,7 @@ Record and monitor daily sales to analyze performance and profitability.
 <img width="893" alt="Screenshot 2024-11-17 at 10 52 37 AM" src="https://github.com/user-attachments/assets/a71fa41e-a9d8-477c-ad17-5551f82b4dd1">
 
 
-8.Restricted Permissions:
+<h3>Restricted Permissions:</h3>
 Only managers have full access to sensitive modules like sales and orders, ensuring data security.
 
 <h3>#Designed For</h3>
